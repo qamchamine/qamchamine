@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/152615940?v=4"  />
+</div>
 <h1 align="left">Hello there! 👋 I'm Amine Qamch</h1>
 
 ###
@@ -80,16 +83,6 @@ I'm a passionate **Full Stack Web Developer** with a drive for continuous learni
 </div>
 
 ###
-## 🎯 Currently Learning
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <span style="font-size: 18px; font-weight: bold;">Java Development</span>
-</div>
-
-Expanding my backend development skills with Java to build more robust and scalable enterprise applications.
-
 <div align="center">
   💼 <strong>Open to exciting opportunities and collaborations!</strong>
 </div>
